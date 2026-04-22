@@ -1,4 +1,10 @@
+[![DOI](https://zenodo.org/badge/1218303162.svg)](https://doi.org/10.5281/zenodo.19699788)
+
+# KAP-Assessment-Pakistan-Sechenov
+
 This repository contains the analysis workflow for the thesis:
+
+**A Cross-Sectional Assessment of Knowledge, Attitudes, And Practices (KAP) In the General Population of Pakistan and International Students of Sechenov University**
 
 ## Author
 **Arslan Arshad**
@@ -63,6 +69,9 @@ source("mph_thesis_analysis.R")
 - Cohorts include:
   - Pakistani general population
   - Sechenov University students
+
+## DOI
+Zenodo DOI: **https://doi.org/10.5281/zenodo.19699788**
 
 ## License
 This project is licensed under the **MIT License**.  
